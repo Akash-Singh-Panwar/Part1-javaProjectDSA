@@ -18,4 +18,4 @@ Image 5 : Some tasks were completed, so marking it done
 ![Pic5](https://user-images.githubusercontent.com/57684187/167167506-f5bda231-0d64-4bb0-8c7c-8797dd112dd0.png)
 
 Image 6 : History
-![Pic6](https://user-images.githubusercontent.com/57684187/167167723-b3794e3f-7978-4810-bde0-eac19b68fe1d.png)
+![Pic6](https://user-images.githubusercontent.com/57684187/167168308-5728d5fa-db88-4802-a6cf-168609fc321b.png)
