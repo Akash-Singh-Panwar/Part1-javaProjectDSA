@@ -10,3 +10,6 @@ Image 2 : Adding task
 
 Image 3 : Task Added
 ![Pic3](https://user-images.githubusercontent.com/57684187/167167179-0f090af4-f4eb-4071-afca-fa2f49278136.png)
+
+Image 4 : Adding more tasks
+![Pic4](https://user-images.githubusercontent.com/57684187/167167283-6ae06b2a-8a46-4fc9-8649-1d3e591eb640.png)
