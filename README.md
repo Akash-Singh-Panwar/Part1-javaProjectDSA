@@ -13,3 +13,6 @@ Image 3 : Task Added
 
 Image 4 : Adding more tasks
 ![Pic4](https://user-images.githubusercontent.com/57684187/167167283-6ae06b2a-8a46-4fc9-8649-1d3e591eb640.png)
+
+Image 5 : Some tasks were completed, so marking it done
+![Pic5](https://user-images.githubusercontent.com/57684187/167167506-f5bda231-0d64-4bb0-8c7c-8797dd112dd0.png)
