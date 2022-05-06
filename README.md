@@ -7,3 +7,6 @@ Image 1 : UI of Project
 
 Image 2 : Adding task
 ![Pic2](https://user-images.githubusercontent.com/57684187/167167036-f8769676-4cbc-42f7-ad5c-16d525950b1a.png)
+
+Image 3 : Task Added
+![Pic3](https://user-images.githubusercontent.com/57684187/167167179-0f090af4-f4eb-4071-afca-fa2f49278136.png)
